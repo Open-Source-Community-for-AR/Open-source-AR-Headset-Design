@@ -2,7 +2,7 @@
 
 This repo consists of STL files for the OpenAR headset comprising:
   - Base for storing computing unit and display wiring
-  - Top cover
+  - Top cover which also has hinges for temples rotating
   - Left/right temple
   - Nosepads (to be uploaded)
 
