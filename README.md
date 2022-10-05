@@ -3,7 +3,7 @@
 This repo consists of STL files for the OpenAR headset comprising:
   - Computing module: for storing 2 batteries, sensors, raspberry Pi Zero or equivalent boards, ...
   - Display module: for mounting screens, waveguide display,... This module also has a nosepad mounting.
-  - Nosepads (to be uploaded)
+  - Nosepad
 
 # 3D models
 <img width="1197" alt="image" src="https://user-images.githubusercontent.com/46408299/193055436-fbfb96bb-7b6c-49e6-931e-81ef2f2805e7.png">
