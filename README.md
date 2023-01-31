@@ -6,12 +6,11 @@ This repo consists of STL files for the OpenAR headset comprising:
   - Nosepad
 
 # 3D models
-<img width="1197" alt="image" src="https://user-images.githubusercontent.com/46408299/193055436-fbfb96bb-7b6c-49e6-931e-81ef2f2805e7.png">
+![B0ACC079-8757-41B4-A41B-39399B3AC873_1_102_o](https://user-images.githubusercontent.com/46408299/215731536-3fe7724c-1b02-4375-92fc-62aaae20d06a.jpeg)
 
-<img width="1200" alt="image" src="https://user-images.githubusercontent.com/46408299/193053168-83a6ce37-bccd-4037-99af-502504b27819.png">
+![A46088CE-7C2D-4AA7-BFBB-E554ED1FA2CE_1_102_o](https://user-images.githubusercontent.com/46408299/215731475-700c41ec-2494-478b-a429-a17e071aca40.jpeg)
 
-<img width="1196" alt="image" src="https://user-images.githubusercontent.com/46408299/193053276-6a17cb09-033a-485a-a48c-8d884708a8f1.png">
-
+![19C8B0BB-94DF-451B-B254-5A8FFD473546_1_102_o](https://user-images.githubusercontent.com/46408299/215731585-989d7d3b-b8ac-4774-8f6f-dd7f284abb3b.jpeg)
 
 
 ## Printing 
